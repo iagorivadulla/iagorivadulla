@@ -41,13 +41,7 @@ Data structures, Python exercises, API integrations, and practice assignments de
 ---
 
 ## 🎯 Career Goal
-To launch my career as a **Data Analyst** or **Python Developer**, applying analytical thinking and clean code practices to solve real-world problems.
-
----
-
-## 📫 Contact
-**Email:** your.email@example.com  
-**LinkedIn:** (your link here)
+To launch my career as a **Data Analyst** and **Data Scientist**, applying analytical thinking and clean code practices to solve real-world problems.
 
 ---
 
