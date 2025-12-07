@@ -21,14 +21,22 @@ Web scraping (BeautifulSoup) · Data cleaning · Data visualization · Explorato
 
 ## 📌 Featured Projects
 
-### 📊 Data Analysis Portfolio  
-A collection of notebooks exploring datasets, cleaning data, visualizing trends, and building predictive models.
+### 🗄️ SQL Project  
+Database creation, querying, joins, aggregations, and analytical tasks using SQL.
 
-### 🔎 Web Scraping Tools  
-Python scripts extracting real-time information using BeautifulSoup and automating data collection.
+### 🍷 KNN Wine Quality Classifier  
+Machine learning project using K-Nearest Neighbors to classify wine quality based on chemical properties.
 
-### 📁 4Geeks Academy Projects  
-Data structures, Python exercises, API integrations, and practice assignments developed during my training.
+### 📊 Sales Analysis  
+Data analysis project exploring business sales trends through EDA, visualizations, and actionable insights.
+
+### 🐶🐱 Neural Network: Dog vs Cat Classifier  
+A convolutional neural network trained to distinguish between dog and cat images.  
+Includes preprocessing, training, evaluation, and deployment.
+
+### 🚀 Flask Deployment: Image Classifier API  
+Deployment of the dog-vs-cat classifier through a Flask API, enabling real-time image prediction via HTTP requests.
+
 
 ---
 
