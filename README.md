@@ -1,5 +1,5 @@
 # Hi! I'm **Iago Rivadulla**
-### Aspiring Data Scientist · Python Developer · 4Geeks Academy Student
+### Data Scientist · Python Developer · 4Geeks Academy Student
 
 After several years working as a chef, I decided to take a new direction in my life and pursue a career in technology.  
 I'm currently strengthening my skills in **Python**, **Data Analysis**, and **Machine Learning**, building real projects as part of my growth at **4Geeks Academy**.
