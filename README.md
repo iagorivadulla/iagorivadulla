@@ -21,7 +21,7 @@ Web scraping (BeautifulSoup) · Data cleaning · Data visualization · Explorato
 
 ## Featured Projects
 
-## Home Credit Risk Prediction
+### Home Credit Risk Prediction
 End-to-end ML system for credit risk prediction using Kaggle dataset. 
 Includes data cleaning, feature engineering, model comparison (scikit-learn), 
 explainability with SHAP, and deployment via FastAPI. AUC: 0.81
