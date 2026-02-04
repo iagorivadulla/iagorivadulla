@@ -15,9 +15,11 @@
 
 ## 🚀 About Me
 
-Career-changer with a **unique background in culinary arts** bringing precision, creativity, and problem-solving skills to the world of data science. Currently completing an intensive **Data Science program at 4Geeks Academy**, where I'm building production-ready ML solutions.
+Career-changer with a **unique background in culinary arts** bringing precision, creativity, and problem-solving skills to the world of data science. Recently graduated from **4Geeks Academy's Data Science program**, where I built production-ready ML solutions and mastered the full data science pipeline.
 
 **What drives me:** Turning complex data into actionable insights and building intelligent systems that solve real-world problems.
+
+**Currently:** Actively seeking Data Analyst/Data Scientist opportunities to apply my skills and continue growing in the field.
 
 ---
 
