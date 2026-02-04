@@ -138,7 +138,7 @@ iago = {
 - 💡 Creative problem-solving from diverse background
 - 🛠️ Hands-on experience with end-to-end ML pipelines
 - 📚 Fast learner committed to continuous improvement
-- 🤝 Team player with excellent communication skills
+- 🤝 Team player
 
 ---
 
