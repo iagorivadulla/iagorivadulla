@@ -70,6 +70,19 @@ iago = {
 
 ## 🎯 Featured Projects
 
+### 📈 Market Regime ML & Meta-Labeling System (https://github.com/iagorivadulla/Market-Regime-ML-Meta-Labeling-System)
+
+> **Advanced Financial Machine Learning System for Market Regime Detection & Signal Enhancement**
+
+- 🧠 Combines Hidden Markov Models (HMM) with meta-labeling to improve trading signal quality
+- 📊 Integrates market data, macroeconomic indicators, and historical economic events
+- 🏗️ End-to-end pipeline: data extraction → preprocessing → modeling → visualization
+- 💾 SQLite-based data persistence for reproducibility and efficient analysis
+- 🖥️ Interactive Streamlit dashboard inspired by Bloomberg Terminal interfaces
+- ⚙️ Leverages advanced tools: TA-Lib, XGBoost, HMMlearn
+
+🚀 Tech: Python, Pandas, NumPy, HMMlearn, XGBoost, TA-Lib, Streamlit, SQLite
+
 ### 🏦 [Home Credit Risk Prediction](https://github.com/iagorivadulla/Home_Credit_Default_Risk_With_Front)
 > **End-to-End ML System for Credit Risk Assessment**
 
