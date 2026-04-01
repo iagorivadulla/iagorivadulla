@@ -70,7 +70,7 @@ iago = {
 
 ## 🎯 Featured Projects
 
-### 📈 Market Regime ML & Meta-Labeling System (https://github.com/iagorivadulla/Market-Regime-ML-Meta-Labeling-System)
+### 📈 [Market Regime ML & Meta-Labeling System](https://github.com/iagorivadulla/Market-Regime-ML-Meta-Labeling-System)
 
 > **Advanced Financial Machine Learning System for Market Regime Detection & Signal Enhancement**
 
