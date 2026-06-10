@@ -139,7 +139,7 @@ iago = {
 
 ## 🌱 Currently Learning
 
-- 🤖 **Advanced Multi-Agent Frameworks & Graph-based AI:** CrewAI, LangGraph, and Agentic RAG architectures.
+- 🤖 **Advanced Multi-Agents Locally:** Ollama, LangGraph, and Agentic RAG architectures.
 - ☁️ **MLOps & GenAIOps:** Containerization (Docker), model tracking, and efficient deployment of local/open-source LLMs.
 - ⚡ **Performance Optimization:** Quantization, ONNX runtime, and hardware acceleration for AI workloads.
 
