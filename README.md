@@ -73,9 +73,7 @@ iago = {
 ## 🎯 Featured Projects
 
 ### 📈 [Market Regime ML & Meta-Labeling System](https://github.com/iagorivadulla/Market-Regime-ML-Meta-Labeling-System)
-
 > **Advanced Financial Machine Learning System for Market Regime Detection & Signal Enhancement**
-
 - 🧠 Combines Hidden Markov Models (HMM) with meta-labeling to improve trading signal quality
 - 📊 Integrates market data, macroeconomic indicators, and historical economic events
 - 🏗️ End-to-end pipeline: data extraction → preprocessing → modeling → visualization
@@ -83,16 +81,26 @@ iago = {
 - 🖥️ Interactive Streamlit dashboard inspired by Bloomberg Terminal interfaces
 - ⚙️ Leverages advanced tools: TA-Lib, XGBoost, HMMlearn
 
-🚀 Tech: Python, Pandas, NumPy, HMMlearn, XGBoost, TA-Lib, Streamlit, SQLite
+🚀 **Tech:** Python, Pandas, NumPy, HMMlearn, XGBoost, TA-Lib, Streamlit, SQLite
+
+### 📰 [Macro Diario – Automated Podcast & Video Pipeline](https://github.com/iagorivadulla) *(Ajusta con tu URL real)*
+> **Autonomous Multi-Agent AI System for Financial News Processing & Audiovisual Generation**
+- 🤖 **Multi-Agent Editorial Team:** Coordinates local LLMs (Qwen2.5 & Gemma) to scrape, filter, and write high-quality financial scripts.
+- 🎙️ **Neural Voice & Audio Post:** Converts text to speech via Kokoro ONNX and processes audio with FFmpeg (parametric EQ and EBU R128 normalization).
+- 🎨 **Dynamic Video Composition:** Animates a pixel-art presenter by mapping mouth states directly to audio RMS levels.
+- 🌐 **Automated Resource Scraping:** Uses Selenium and undetected-chromedriver to gather and validate contextual visual assets.
+- 📊 **Structured Ingestion:** Utilizes Pydantic for robust structured data flow throughout the pipeline.
+
+🚀 **Tech:** Python, Ollama, Pydantic, Kokoro, FFmpeg, Selenium, OpenCV, PIL, newspaper3k
 
 ### 🏦 [Home Credit Risk Prediction](https://github.com/iagorivadulla/Home_Credit_Default_Risk_With_Front)
 > **End-to-End ML System for Credit Risk Assessment**
-
 - 📊 Built complete pipeline: data cleaning → feature engineering → model training → deployment
 - 🤖 Trained and compared multiple ML models achieving **AUC: 0.81**
 - 💡 Implemented **SHAP** for model explainability and transparent decision-making
 - 🚀 Deployed production-ready API with **FastAPI**
-- 📈 **Tech:** Python, Scikit-learn, SHAP, FastAPI, Pandas
+
+🚀 **Tech:** Python, Scikit-learn, SHAP, FastAPI, Pandas
 
 <details>
 <summary><b>🔍 View More Projects</b></summary>
@@ -131,11 +139,9 @@ iago = {
 
 ## 🌱 Currently Learning
 
-- 🧠 Advanced Machine Learning & Deep Learning architectures
-- ☁️ MLOps: Model deployment, monitoring, and maintenance
-- 📊 Advanced SQL & Database optimization
-- 🎨 Data storytelling & professional dashboards
-- ✨ Production-ready code best practices
+- 🤖 **Advanced Multi-Agent Frameworks & Graph-based AI:** CrewAI, LangGraph, and Agentic RAG architectures.
+- ☁️ **MLOps & GenAIOps:** Containerization (Docker), model tracking, and efficient deployment of local/open-source LLMs.
+- ⚡ **Performance Optimization:** Quantization, ONNX runtime, and hardware acceleration for AI workloads.
 
 ---
 
