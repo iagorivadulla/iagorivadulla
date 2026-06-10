@@ -83,7 +83,7 @@ iago = {
 
 🚀 **Tech:** Python, Pandas, NumPy, HMMlearn, XGBoost, TA-Lib, Streamlit, SQLite
 
-### 📰 [Macro Diario – Automated Podcast & Video Pipeline](https://github.com/iagorivadulla) *(Ajusta con tu URL real)*
+### 📰 [Macro Diario – Automated Podcast & Video Pipeline](https://github.com/iagorivadulla/macro-diario)
 > **Autonomous Multi-Agent AI System for Financial News Processing & Audiovisual Generation**
 - 🤖 **Multi-Agent Editorial Team:** Coordinates local LLMs (Qwen2.5 & Gemma) to scrape, filter, and write high-quality financial scripts.
 - 🎙️ **Neural Voice & Audio Post:** Converts text to speech via Kokoro ONNX and processes audio with FFmpeg (parametric EQ and EBU R128 normalization).
